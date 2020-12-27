@@ -16,7 +16,7 @@ function App() {
     <div className="App">
       <Parallax bgImage = {header}>
         <header className="App-header">
-        <img className = "yo" alt="description of image" src={foto}/>
+        <img className = "yo" alt="descripcion" src={foto}/>
         <div>
           <h1>Raúl Medina Garcia-Navas</h1>
           <h3>Estudiante</h3>
