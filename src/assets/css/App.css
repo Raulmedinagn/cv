@@ -78,20 +78,66 @@
 }
 
 @media (max-width: 770px) {
-
+  .yo{
+    width: 20%;
+  }
+  .div-educacion{
+    width: auto;
+  }
+  .div-experiencias{
+    float: none;
+    width: auto;
+  }
+  .div-datos-personales{
+    width:auto;
+  }
 }
 
 @media (max-width: 770px) and (orientation: portrait) {
-
+  .yo{
+    width: 20%;
+  }
+  .div-educacion{
+    width: auto;
+  }
+  .div-experiencias{
+    float: none;
+    width: auto;
+  }
+  .div-datos-personales{
+    width:auto;
+  }
 }
 
 @media (max-width: 770px) and (orientation: landscape) {
-
+  .yo{
+    width: 20%;
+  }
+  .div-educacion{
+    width: auto;
+  }
+  .div-experiencias{
+    float: none;
+    width: auto;
+  }
+  .div-datos-personales{
+    width:auto;
+  }
 }
 
 @media(max-width: 600px) {
   .yo{
     width: 20%;
+  }
+  .div-educacion{
+    width: auto;
+  }
+  .div-experiencias{
+    float: none;
+    width: auto;
+  }
+  .div-datos-personales{
+    width:auto;
   }
 }
 
