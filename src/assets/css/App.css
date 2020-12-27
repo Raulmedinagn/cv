@@ -1,6 +1,7 @@
 .App {
   /*text-align: center;*/
-  width: auto;
+  width: 100%;
+    height: 100%;
   background-size: cover;
   background-repeat: no-repeat;
   height: 100%;
@@ -22,6 +23,8 @@
   color: white;
 }
 .App-body {
+  width: 100%;
+    height: 100%;
   background-color: #262c34;
   align-items: center;
   font-size: calc(10px + 2vmin);
@@ -61,4 +64,40 @@
 .yo{
   width: 10%;
   margin: 1%;
+}
+
+@media (max-width: 1600px) {
+
+}
+
+@media (max-width: 1024px) {
+
+}
+
+@media (max-width: 1024px) and (orientation: landscape) {
+
+}
+
+@media (max-width: 770px) {
+
+}
+
+@media (max-width: 770px) and (orientation: portrait) {
+
+}
+
+@media (max-width: 770px) and (orientation: landscape) {
+
+}
+
+@media(max-width: 600px) {
+  .yo{
+    width: 20%;
+  }
+}
+
+@media(max-width: 600px) and (orientation: landscape) {
+    .yo{
+      width: 20%;
+    }
 }
