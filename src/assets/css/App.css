@@ -1,6 +1,9 @@
 .App {
   /*text-align: center;*/
   width: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
 }
 
 .App-header {
@@ -50,8 +53,3 @@
   border-radius: 5px;
 
 }
-.bg-image{
-   background-size: cover;
-   background-repeat: no-repeat;
-   height: 100%;
-   width: 100% ;};
