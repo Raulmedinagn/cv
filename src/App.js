@@ -4,14 +4,13 @@ import exp from './assets/images/trabajo.jpg';
 import './assets/css/App.css';
 
 //importar componentes
-
 import Footer from './components/footer';
 import { Parallax } from 'react-parallax';
+
 function App() {
   return (
 
     <div className="App">
-
 
       <header className="App-header">
       <h1>Raúl Medina Garcia-Navas</h1>
@@ -19,7 +18,7 @@ function App() {
 
       </header>
       <body className="App-body">
-      <Parallax  bgImage = { estudios }>
+      <Parallax className="bg-image" bgImage = { estudios }>
       <div className="div-educacion">
         <h2>Educación</h2>
         <br/>
