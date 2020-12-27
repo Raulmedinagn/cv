@@ -6,7 +6,6 @@ import header from './assets/images/header.jpg';
 import './assets/css/App.css';
 
 import { Parallax } from 'react-parallax';
-import { useMediaQuery } from 'react-responsive';
 //importar componentes
 import Footer from './components/footer';
 
