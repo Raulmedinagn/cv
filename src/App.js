@@ -1,6 +1,6 @@
 import fondo from './assets/images/fondo2.jpeg';
 import estudios from './assets/images/libros.jpg';
-import exp from './assets/images/trabajo2.jpg';
+import exp from './assets/images/trabajo.jpg';
 import './assets/css/App.css';
 
 //importar componentes
