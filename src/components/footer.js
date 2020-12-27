@@ -8,7 +8,7 @@ class Footer extends React.Component {
     return (
 
         <footer className="container">
-            <p>&copy; {(new Date().getFullYear())} Mi Proyecto, Inc. &middot;</p>
+            <p>&copy; {(new Date().getFullYear())} Raul Medina García-Navas.</p>
         </footer>
 
     )
