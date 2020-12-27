@@ -1,0 +1,52 @@
+.App {
+  /*text-align: center;*/
+  width: auto;
+}
+
+.App-header {
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.div-footer{
+  background-color: #282c34;
+  text-align: center;
+  color: white;
+}
+.App-body {
+  background-color: #262c34;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+
+}
+.div-educacion{
+  margin: 3%;
+  padding: 1%;
+  width: 60%;
+  border: 2px solid white;
+  border-radius: 5px;
+  border-spacing:
+}
+.div-experiencias{
+  float: right;
+  text-overflow: clip;
+  margin: 3%;
+  padding: 1%;
+  border: 2px solid black;
+  border-radius: 5px;
+  color:black;
+}
+.div-datos-personales{
+  width: 60%;
+  text-overflow: clip;
+  margin: 3%;
+  padding: 1%;
+  border: 2px solid white;
+  border-radius: 5px;
+
+}
