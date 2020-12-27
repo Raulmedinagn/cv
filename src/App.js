@@ -1,11 +1,10 @@
-import logo from './assets/images/logo.svg';
 import fondo from './assets/images/fondo2.jpeg';
 import estudios from './assets/images/libros.jpg';
 import exp from './assets/images/trabajo2.jpg';
 import './assets/css/App.css';
 
 //importar componentes
-import Menu from './components/Menu';
+
 import Footer from './components/footer';
 import { Parallax } from 'react-parallax';
 function App() {
